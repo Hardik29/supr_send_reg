@@ -95,7 +95,7 @@ export default function Home() {
       </div>
       <div className='flex flex-col items-center justify-start mt-12'>
         Ready to join? Simply enter your email to get started with registration
-        <div>Be on the lookout for an notification confirming your entry into our platform from suprsend</div>
+        <div>Be on the lookout for an notification confirming your entry into our platform</div>
       </div>
     </div>
   );
